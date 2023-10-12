@@ -34,6 +34,9 @@ lockere Anleitung, um schnell und unkompliziert eine einfache HTML-Seite mit Git
 ## 7. **Deine Seite live sehen**
    - Nach ein paar Minuten sollte deine Seite live sein! Du findest die URL deiner Seite im selben GitHub Pages Abschnitt in den Einstellungen.
    - Klick auf die URL, und voilà, deine einfache HTML-Seite ist live!
+   - Hier eine zusammenfassung wie deine URL aufgebaut ist:
+
+![URL tutorial](https://github.com/JavaBoii/tut_for_jan/blob/master/images/dashboard%20Kopie.png)
 
 ## 8. **Weiterentwickeln**
    - Du kannst jetzt weitere Dateien hochladen, deinen Code bearbeiten oder sogar CSS und JavaScript hinzufügen, um deine Seite aufzupeppen. Jedes Mal, wenn du Änderungen vornimmst, werden diese automatisch auf GitHub Pages veröffentlicht.
